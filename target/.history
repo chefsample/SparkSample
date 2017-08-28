@@ -1,0 +1,6 @@
+scala
+version
+sbt console
+console
+q
+exit
